@@ -1,0 +1,36 @@
+::-moz-selection {
+    background: rgba(146, 212, 236, 0.3);
+}
+
+::selection {
+    background: rgba(38, 70, 137, 0.3);
+}
+
+::-webkit-scrollbar {
+    width: 20px;
+    height: 20px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0);
+}
+
+
+::-webkit-scrollbar-thumb {
+    background: rgba(146, 212, 236, 0.5);
+    border-radius: 1rem;
+    border: 2px solid rgba(146, 212, 236, 0.7);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(146, 212, 236, 0.6);
+}
+
+body::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+body::-webkit-scrollbar-track {
+    background: rgba(56, 56, 56, 1);
+}
