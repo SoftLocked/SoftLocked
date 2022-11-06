@@ -10,13 +10,11 @@
     
     <script>
         function decisionRedirect() {
-                let rand = 100*Math.random();
+                rand = 100*Math.random();
                 if (rand < 100*640/28474) {
                     location.replace("reject.html")
-                    console.log("rejected! :(")
                 } else {
                     location.replace("accept.html")
-                    console.log("accepted! :)")
                 }
         }
     </script>
