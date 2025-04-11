@@ -11,6 +11,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SoftLocked&repo=personal-website&theme=dark)](https://github.com/SoftLocked/personal-website)
 
 ### My most used languages
+![](https://nirzak-streak-stats.vercel.app/?user=SoftLocked&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoftLocked&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### Some of my skills
@@ -18,5 +19,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SoftLocked&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
