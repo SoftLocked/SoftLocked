@@ -1,4 +1,4 @@
-![alt text](./wavesOpacity.svg)
+<img src="https://github.com/SoftLocked/SoftLocked/blob/main/images/slant.svg" style="width: 500px; height: 100px;"></img>
 ## 👋 Hi! I'm Hari
 
 UC Irvine CS student with a passion for Full Stack and Systems
