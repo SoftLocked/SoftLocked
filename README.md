@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Hari
 
-## UC Irvine CS Student with a Passion for Full Stack and Systems
+## UC Irvine CS Student with a Passion for Full Stack Development and CS Theory
 
 ### Some Projects I've Been Working On
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SoftLocked&repo=HottakeRanked&theme=dark)](https://github.com/SoftLocked/HottakeRanked)
