@@ -1,5 +1,3 @@
-![alt text](./images/slant.svg)
-
 ## 👋 Hi! I'm Hari
 
 UC Irvine CS student with a passion for Full Stack and Systems
