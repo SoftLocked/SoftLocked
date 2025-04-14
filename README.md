@@ -2,6 +2,8 @@
 
 ## UC Irvine CS Student with a Passion for Full Stack Development and CS Theory
 
+### 🥇 [UCI Datathon](https://soar-datathon-2025-24859.devpost.com/project-gallery) Best Overall Winner ($150 earnings)
+
 ### Some Projects I've Been Working On
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SoftLocked&repo=HottakeRanked&theme=dark)](https://github.com/SoftLocked/HottakeRanked)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SoftLocked&repo=QuPyt&theme=dark)](https://github.com/SoftLocked/QuPyt)
