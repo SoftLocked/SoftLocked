@@ -2,7 +2,7 @@
 
 ## UC Irvine CS Student with a Passion for Full Stack Development and CS Theory
 
-### 🥇 [2025 UCI Datathon](https://soar-datathon-2025-24859.devpost.com/project-gallery) Best Overall Winner ($150 earnings)
+### 🥇 [2025 UCI Datathon](https://soar-datathon-2025-24859.devpost.com/project-gallery) Best Overall Winner ($600 team earnings)
 
 ### Some Projects I've Been Working On
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SoftLocked&repo=HottakeRanked&theme=dark)](https://github.com/SoftLocked/HottakeRanked)
